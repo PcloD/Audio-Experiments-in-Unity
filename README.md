@@ -1,7 +1,9 @@
-Mega Neon Pong v0.1.5 (Unplayable right now):
+Audio Experiments!
 ==============================================
 Random mucking around.... and beat detection is a very hard problem
 
+
+Thank you to Jasinski for letting me borrow his One Synth Challenge #87 preview song for testing purposes and for science
 
 License
 -------
