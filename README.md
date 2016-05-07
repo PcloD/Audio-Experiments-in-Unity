@@ -3,7 +3,7 @@ Audio Experiments!
 Random mucking around.... and beat detection is a very hard problem
 
 
-Thank you to Jasinski for letting me borrow his One Synth Challenge #87 preview song for testing purposes and for science
+Thank you to Jasinski (http://www.soundcloud.com/jasinski) for letting me borrow his One Synth Challenge #87 preview song for testing purposes and for science
 
 License
 -------
